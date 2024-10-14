@@ -23,14 +23,14 @@ Check out the live version of the calculator [here](https://ody9s5eus.github.io/
 
 ## 📸 Screenshots
 
-![Calculator Screenshot](https://via.placeholder.com/300x500?text=Calculator+Screenshot)
+![Calculator Screenshot](/screenshot.png)
 
 ## ⚙️ Installation
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/simple-calculator.git
+   git clone https://github.com/ody9s5eus/simple-calculator.git
    ```
 
 2. **Navigate to the project directory**:
