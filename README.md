@@ -23,7 +23,7 @@ Check out the live version of the calculator [here](https://ody9s5eus.github.io/
 
 ## 📸 Screenshots
 
-![Calculator Screenshot](/screenshot.png)
+![Calculator Screenshot](screenshot.png)
 
 ## ⚙️ Installation
 
